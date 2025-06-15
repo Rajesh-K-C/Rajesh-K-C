@@ -1,27 +1,10 @@
 # Hi there, I'm Rajesh KC 👋
 
-<!--
-**Rajesh-K-C/Rajesh-K-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Rajesh-K-C&color=brightgreen)
 
 ## About Me
 I am a software developer with a keen interest in web development, and mobile app development. I love to learn new technologies.
 
-- 🌱 I’m currently learning laravel and flutter
-- 💬 Ask me about Python, JavaScript, Django, Flutter, PHP, Laravel, MySQL, and React
 - 📫 How to reach me: rajeshkc1111.rk@gmail.com
 - 🌐 [Visit my website](https://rajesh-kc.com.np)
 
@@ -45,16 +28,5 @@ I am a software developer with a keen interest in web development, and mobile ap
 <br/>
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kc-377426262/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-k-c/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshkc1111.rk@gmail.com)
-
-<!--
-## Recent Projects
-- [Project 1](https://github.com/Rajesh-K-C/project-1) - Short description of project 1.
-- [Project 2](https://github.com/Rajesh-K-C/project-2) - Short description of project 2.
-- [Project 3](https://github.com/Rajesh-K-C/project-3) - Short description of project 3.
--->
-<!--
-## Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
